@@ -1,3 +1,6 @@
+HTML Compressor:
+https://www.textfixer.com/html/compress-html-compression.php
+
 CSS Minifier Tool and Compressor:
 https://www.toptal.com/developers/cssminifier
 

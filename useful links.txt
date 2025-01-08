@@ -1,0 +1,5 @@
+CSS Minifier Tool and Compressor:
+https://www.toptal.com/developers/cssminifier
+
+JavaScript Obfuscator Tool
+https://obfuscator.io/
